@@ -31,3 +31,15 @@ In this project, the following steps were undertaken:
 1. Conducted **Exploratory Data Analysis (EDA)** on a retail transaction dataset to gain insights into data distributions and patterns.
 2. Developed and trained an **Autoencoder model** for anomaly detection.
 3. Evaluated the model using standard classification metrics such as **precision**, **recall**, and **F1-score**, specifically focusing on identifying fraudulent transactions.
+
+![WhatsApp Image 2024-10-23 at 20 31 21](https://github.com/user-attachments/assets/ed2f69e7-ddc4-40d3-8885-c29aefd8b988)
+![WhatsApp Image 2024-10-23 at 20 31 41](https://github.com/user-attachments/assets/9336764b-afe1-4370-a7c9-6cc1424a8ba5)
+![WhatsApp Image 2024-10-23 at 20 31 51](https://github.com/user-attachments/assets/a3dbdd51-37a0-4f87-bf17-67782701e682)
+![WhatsApp Image 2024-10-23 at 20 32 07](https://github.com/user-attachments/assets/fcd261c5-f7dd-4e1c-968a-dcd91efb3bc8)
+![WhatsApp Image 2024-10-23 at 20 32 20](https://github.com/user-attachments/assets/1b9b3379-de5e-4b25-9e8b-d543aee8422d)
+![WhatsApp Image 2024-10-23 at 20 32 32](https://github.com/user-attachments/assets/17357854-2075-4067-a719-99517d897065)
+![WhatsApp Image 2024-10-23 at 20 32 43](https://github.com/user-attachments/assets/67079402-e88b-46f2-b7a4-87d687ba0add)
+![WhatsApp Image 2024-10-23 at 20 32 54](https://github.com/user-attachments/assets/09203a98-d3fb-4117-852e-90c7463d700b)
+![WhatsApp Image 2024-10-23 at 20 33 08](https://github.com/user-attachments/assets/19d36970-1d31-4001-86a8-3575307806e7)
+![WhatsApp Image 2024-10-23 at 20 33 19](https://github.com/user-attachments/assets/120e633a-c615-4a87-a11a-8ccd96ff8d49)
+
